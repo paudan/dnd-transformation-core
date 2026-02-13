@@ -26,3 +26,4 @@ replay_pid*
 .svn/
 build/
 javadoc/
+!dist/*.jar
